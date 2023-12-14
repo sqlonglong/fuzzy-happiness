@@ -1,19 +1,19 @@
-综合频道,#genre#
+Integrierte Kanal#性别 #
 
-CCTV-1,http://tvpull.dxhmt.cn/tv/11481-4.m3u8
+CCTV-1,http://TV pull。dxhmt。参见CN/TV/11481-4。M3 U8
 
 
-CCTV-3,http://hlsbkmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv3hd/2000/index.m3u8?&encrypt=
+编辑 | 删除 编辑 | 编辑 | 删除 编辑 | 编辑 | 删除 编辑 | 编辑 | 编辑 | 编辑 | 编辑 | 编辑 | 编辑 | 编辑 | 编辑 | 编辑 | 编辑 | 编辑 | 编辑 | 编辑 | 编辑 | 编辑 | 编辑 | 编辑 | 编辑 | 编辑 | 编辑 | 编辑 | 编辑 | 编辑 | 编辑 | 删除
 
-CCTV-6,http://hlsbkmgsplive.miguvideo.com/wd_r2/ocn/cctv6hd/3000/index.m3u8?&encrypt=
+CCTV-6,http://hlsbkmgsplive 。Miguvideo的。com/wd_R2/ocn/CCTV 6 HD/3000/index。m3u 8 ?&加密=
 
-CCTV-7,http://hlsbkmgsplive.miguvideo.com/migu/kailu/20200324/cctv7hd/57/index.m3u8?&encrypt=
-CCTV-8,http://hlsbkmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv8hd/1000/index.m3u8?&encrypt=
+CCTV-7,http://hlsbkmgsplive。Miguvideo的。com/migu/kailu/2020 03 24/CCTV 7 HD/57/indexm3u 8 ?&加密=
+CCTV8,https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8#http://101.33.17.11/liveplay-kk.rtxapp.com/live/program/live/cctv8hd8m/8000000/mnf.m3u8
 
 CCTV10,http://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/25137bd7c4494128bf0cba271974928f/1200.m3u8
 
-CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
-CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
+CCTV13, WEB //live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
+CCTV13, WEB //live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
 
 东方卫视,https://epg.pw/stream/44b56b8b352bbf95b682eda2a49ba0332b91f78eb1072297dfbed375ee21366f.m3u8
 东方卫视,http://hlsbkmgsplive.miguvideo.com/wd_r4/dfl/dongfangwshd/3000/index.m3u8?&encrypt=
@@ -936,12 +936,12 @@ CHC高清㊣版,http://171.110.42.48:8181/tsfile/live/1017_1.m3u8
 春晚2022,http://txmov2.a.kwimgs.com/upic/2022/02/01/11/BMjAyMjAyMDExMTEwMjNfNDAzMDAxOTlfNjYzNzA4MTk4NzNfMF8z_b_B898cc7ddd0025bf54ddb18ec1f723c84.mp4
 春晚2023,https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
 春晚1992,https://txmov2.a.kwimgs.com/bs3/video-hls/5256826755663896297_hlshd15.m3u8
-春晚1993,https://txmov2.a.kwimgs.com/bs3/video-hls/5217420261875933947_hlshd15.m3u8
-春晚1994,https://txmov2.a.kwimgs.com/bs3/video-hls/5197154061406974711_hlshd15.m3u8
-春晚1995,https://txmov2.a.kwimgs.com/bs3/video-hls/5255137907893179578_hlshd15.m3u8
-春晚1997,https://txmov2.a.kwimgs.com/bs3/video-hls/5230649583590411879_hlshd15.m3u8
-春晚1999,https://txmov2.a.kwimgs.com/bs3/video-hls/5258234133675308186_hlshd15.m3u8
-春晚2001,https://txmov2.a.kwimgs.com/bs3/video-hls/5228960735897942616_hlshd15.m3u8
-春晚2014,https://txmov2.a.kwimgs.com/bs3/video-hls/5245286283437869627_hlshd15.m3u8
-春晚2019,https://txmov2.a.kwimgs.com/bs3/video-hls/5222205336887088723_hlshd15.m3u8
-春晚2020,http://txmov2.a.kwimgs.com/upic/2022/01/30/17/BMjAyMjAxMzAxNzA5NDdfNDAzMDAxOTlfNjYxNzQ2MDAyMTFfMF8z_b_B5d51d9564c5670dc66faeba20aa7af3f.mp4
+春晚1993年，https://tx mov 2 . a . kwi MGS . com/bs3/video-HLS/5217420261875933947 _ HLS HD 15 . m3u 8
+春晚1994年，https://tx mov 2 . a . kwi MGS . com/bs3/video-HLS/5197154061406974711 _ HLS HD 15 . m3u 8
+春晚1995年，https://tx mov 2 . a . kwi MGS . com/bs3/video-HLS/5255137907893179578 _ HLS HD 15 . m3 u8
+春晚1997年，https://tx mov 2 . a . kwi MGS . com/bs3/video-HLS/5230649583590411879 _ HLS HD 15 . m3u 8
+春晚1999年，https://tx mov 2 . a . kwi MGS . com/bs3/video-HLS/5258234133675308186 _ HLS HD 15 . m3u 8
+春晚2001年，https://tx mov 2 . a . kwi MGS . com/bs3/video-HLS/5228960735897942616 _ HLS HD 15 . m3u 8
+春晚2014，https://tx mov 2 . a . kwi MGS . com/bs3/video-HLS/5245286283437869627 _ HLS HD 15 . m3 u8
+春晚2019，https://tx mov 2 . a . kwi MGS . com/bs3/video-HLS/5222205336887088723 _ HLS HD 15 . m3 u8
+春晚2020年http://tx mov 2 . a . kwi MGS . com/upic/2022/01/30/17/bmjaymjaxmzaxnza 5 nddfndazmdaxotlfnjyxnzq 2 mdaymtffmf 8 z _ b _ b 5d 51d 9564 c 5670 DC 66 faeba 20 aa 7 af3f . MP4
